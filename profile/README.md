@@ -2,6 +2,8 @@
 
 Vibe-coding & human-centric design.
 
+Run by [Paweł Jurewicz](https://github.com/pawel-jurewicz-heartmade).
+
 ## What we build
 
 We build and ship:
