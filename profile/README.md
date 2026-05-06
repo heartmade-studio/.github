@@ -19,6 +19,7 @@ Messenger-Native SaaS is a pattern where customers use the product inside a mess
 Reference repository:
 
 - [heartmade-studio/messenger-native-saas](https://github.com/heartmade-studio/messenger-native-saas)
+- Internal repo (Heartmade-internal): `Code/Heartmade-internal/messenger-native-saas`
 
 ## First app
 
