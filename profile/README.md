@@ -22,4 +22,4 @@ Reference repository:
 
 ## First app
 
-- [Moon Cue](https://trycue.pl)
+- [MoonQ](https://moonq.app)
