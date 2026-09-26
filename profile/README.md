@@ -2,13 +2,14 @@
 
 Vibe-coding & human-centric design.
 
-Run by [Paweł Jurewicz](https://github.com/pawel-jurewicz-heartmade).
+Run by [Paweł Jurewicz](https://github.com/pawel-jurewicz-heartmade) · [heartmade.pl](https://heartmade.pl)
 
 ## What we build
 
 We build and ship:
 
 - Web apps
+- Native macOS apps
 - Websites
 - Landing pages
 
@@ -23,3 +24,8 @@ Reference repository:
 ## First app
 
 - [MoonQ](https://moonq.app)
+
+## Open source
+
+- [Skryba](https://github.com/heartmade-studio/heartmade-skryba). Hold Fn, speak, and your words appear
+  wherever you type: a small macOS dictation app using Groq's Whisper.
