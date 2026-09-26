@@ -27,5 +27,5 @@ Reference repository:
 
 ## Open source
 
-- [Skryba](https://github.com/heartmade-studio/heartmade-skryba). Hold Fn, speak, and your words appear
+- [Skryba](https://github.com/heartmade-studio/skryba). Hold Fn, speak, and your words appear
   wherever you type: a small macOS dictation app using Groq's Whisper.
