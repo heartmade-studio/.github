@@ -2,7 +2,7 @@
 
 Vibe-coding & human-centric design.
 
-Run by [Paweł Jurewicz](https://github.com/pawel-jurewicz-heartmade) · [heartmade.pl](https://heartmade.pl)
+Run by [Paweł Jurewicz](https://github.com/pawel-jurewicz-heartmade) · [heartmade.pl](https://heartmade.pl/en/)
 
 ## What we build
 
